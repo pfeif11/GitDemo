@@ -15,6 +15,8 @@ public class Fibonacci {
 			b=c;
 			//wahsaiksdkjkldmfalka
 			//sfdfsdsf
+			System.out.println("postJira2");
+			System.out.println("postJira3");
 		}
 	}
 
